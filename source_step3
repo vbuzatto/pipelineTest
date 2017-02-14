@@ -1,0 +1,2 @@
+# Filter q40
+samtools view -q40 -b mapped.bam > mapped.q40.bam
